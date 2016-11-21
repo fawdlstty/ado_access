@@ -1,6 +1,6 @@
 #ado_access
 
-[![Build status](https://ci.appveyor.com/api/projects/status/frechiuk78ga3c7l/branch/master?svg=true)](https://ci.appveyor.com/api/projects/status/frechiuk78ga3c7l/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/om2boat60kq9xhad/branch/master?svg=true)](https://ci.appveyor.com/api/projects/status/om2boat60kq9xhad/branch/master)
 
 VS2013下 ado对象模型访问框架
 
